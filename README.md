@@ -7,8 +7,7 @@ He is a focused researcher with a solid background in Computer Science, Statisti
 * Enthusiastic for technology, mainly focusing on **Machine Learning, Artificial Intelligence, XAI, and Data Science, Generative AI, Fine-tuning LLMs**
 * Spent 5 Years on Research & Development in the Indian Institute of Technology Kharagpur, mainly developing Artificial Intelligence-based Unsupervised Classification Models with Statistical techniques.
 * Comprehensive knowledge of Python libraries for Data processing and machine learning, such as NumPy, Matplotlib, Pandas, Scikit Learn TensorFlow, and Keras.
-* Strongly Computer Engineering (Data Analytics) professional with a PhD Degree from Indian Institute of Technology Kharagpur.
-* 
+
 - 💞️ I’m looking to collaborate on projects which are based on energy (smart grid) data analytics, federated learning, AI for energy, generative AI, industry-specific LLMs.
 - 📫 You can find me on rajeshahir.cse@gmail.com, rajesh.ahir@cnrsatcreate.sg
 - My google scholar profile: https://scholar.google.com/citations?user=7XAIXH0AAAAJ&hl=en
