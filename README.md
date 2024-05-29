@@ -2,7 +2,7 @@
 - 👀 If you tell everyone you’re going to do something and you change your mind in 100 days based on new information, that’s a strength. Not a weakness. 
                                                               **New Data = New Decision**
 I am passionate about working with data and helping a company put the data it already collected to use in order to make informed decisions and increase the company's efficiency and maximize profits.
-He is a focused researcher with a solid background in Computer Science, Statistics and a strong interest in Big Data and Machine Learning. He looks forward to being a part of a team, leveraging his strong organizational and analytical skills to enable finding solutions within complex projects.
+I am a focused researcher with a solid background in Computer Science, Statistics and a strong interest in Big Data and Machine Learning. I looks forward to leverage my strong organizational and analytical skills to enable finding solutions within complex projects.
 
 * Enthusiastic for technology, mainly focusing on **Machine Learning, Artificial Intelligence, XAI, and Data Science, Generative AI, Fine-tuning LLMs**
 * Spent 5 Years on Research & Development in the Indian Institute of Technology Kharagpur, mainly developing Artificial Intelligence-based Unsupervised Classification Models with Statistical techniques.
